@@ -9,6 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@react-pdf-viewer/bookmark": "^3.12.0",
+    "@react-pdf-viewer/core": "^3.12.0",
+    "@react-pdf-viewer/default-layout": "^3.12.0",
+    "@react-pdf-viewer/locales": "^1.0.0",
+    "@react-pdf-viewer/selection-mode": "^3.12.0",
+    "linkify-element": "^4.1.3",
     "@emotion/styled": "^11.11.5",
     "@mui/material": "^5.15.18",
     "@tailwindcss/typography": "^0.5.13",

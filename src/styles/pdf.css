@@ -1,0 +1,14 @@
+.rpv-core__viewer--dark {
+  background-color: #1e1e1e !important; /* 暗色背景 */
+  color: #ffffff !important; /* 白色文字 */
+}
+
+/* 假设亮色主题的背景是#ffffff，文字颜色是#000000 */
+.rpv-core__viewer--light {
+  background-color: #ffffff !important; /* 亮色背景 */
+  color: #000000 !important; /* 黑色文字 */
+}
+
+.rpv-default-layout__container {
+  border: 1px solid white;
+}

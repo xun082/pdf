@@ -1,0 +1,5 @@
+# 设置所有文本文件使用 LF
+* text=auto
+
+# 针对特定文件类型
+*.css text eol=lf
